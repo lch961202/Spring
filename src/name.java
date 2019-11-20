@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public class name {
+    int a =2;
 }
