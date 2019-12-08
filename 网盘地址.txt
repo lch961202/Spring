@@ -1,0 +1,6 @@
+spring 包：https://repo.spring.io/release/org/springframework/spring/3.2.13.RELEASE/
+	 https://sourceforge.net/projects/aopalliance/files/aopalliance/1.0
+	 https://mvnrepository.com/artifact/org.aspectj/aspectjweaver
+Mybatis-Spring整合资源包：https://github.com/mybatis/spring/releases
+Hibernate Validator 库的jar文件（jsr 303 实现服务器数据验证）：http://hibernate.org/validator
+Spring MVC项目文件上传所需的jar包：http://commons.apache.org/
